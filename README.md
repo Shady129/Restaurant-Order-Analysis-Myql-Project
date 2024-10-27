@@ -46,7 +46,8 @@ Multiple tables
 
  - The top 5 orders that spent the most money were in [Italian, American, Asian, and Mexican] cuisine.
  - The top orders that spent the most money were for Italian cuisine.
- - 
+ - The developer should increase and develop the items in American cuisine.
+   
 
 
 ### Conclusion:
