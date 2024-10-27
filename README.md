@@ -28,3 +28,6 @@ Multiple tables
 - Write scripts to generate basic reports that can be run every period.
 - Aggregation Functions.
 
+
+### Tools:
+- My SQL
